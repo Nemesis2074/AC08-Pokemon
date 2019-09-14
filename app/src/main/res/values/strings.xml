@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Whos That Pokémon?</string>
+
+
+    <string name="text_correct">Correcto: %d</string>
+    <string name="text_wrong">Incorrecto: %d</string>
+
+    <string name="alert_correct">¡Correcto!</string>
+    <string name="alert_wrong">¡Incorrecto!</string>
+
+    <string name="poke_001">Bulbasaur</string>
+    <string name="poke_002">Ivysaur</string>
+    <string name="poke_003">Venasaur</string>
+    <string name="poke_004">Charmander</string>
+    <string name="poke_005">Charmeleon</string>
+    <string name="poke_006">Charizard</string>
+    <string name="poke_007">Squirtle</string>
+    <string name="poke_008">Wartortle</string>
+    <string name="poke_009">Blastoise</string>
+    <string name="poke_010">Caterpie</string>
+    <string name="poke_011">Metapod</string>
+    <string name="poke_012">Butterfly</string>
+</resources>

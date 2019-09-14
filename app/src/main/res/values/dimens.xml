@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="corner_radius">8dp</dimen>
+
+    <dimen name="font_button">18sp</dimen>
+    <dimen name="font_score">24sp</dimen>
+
+</resources>
